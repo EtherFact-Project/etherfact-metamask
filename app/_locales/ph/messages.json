@@ -24,7 +24,7 @@
     "message": "Halaga + Gas"
   },
   "appDescription": {
-    "message": "Ethereum Browser Extension",
+    "message": "EtherFact Browser Extension",
     "description": "Ang deskripsyon ng application"
   },
   "appName": {
@@ -342,7 +342,7 @@
     "message": "Loose"
   },
   "mainnet": {
-    "message": "Main Ethereum Network"
+    "message": "Main EtherFact Network"
   },
   "message": {
     "message": "Mensahe"
@@ -496,7 +496,7 @@
     "message": "Magpadala ng Tokens"
   },
   "sendTokensAnywhere": {
-    "message": "Magpadala ng Tokens sa sinumang may Ethereum account"
+    "message": "Magpadala ng Tokens sa sinumang may EtherFact account"
   },
   "settings": {
     "message": "Mga Setting"

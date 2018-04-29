@@ -85,7 +85,7 @@ class CreatePasswordScreen extends Component {
               height="225"
             />
             <div className="info">
-              MetaMask is a secure identity vault for Ethereum.
+              MetaMask is a secure identity vault for EtherFact.
             </div>
             <div className="info">
               It allows you to hold ether & tokens, and interact with decentralized applications.
@@ -159,7 +159,7 @@ class CreatePasswordScreen extends Component {
               height="225"
             />
             <div className="info">
-              MetaMask is a secure identity vault for Ethereum.
+              MetaMask is a secure identity vault for EtherFact.
             </div>
             <div className="info">
               It allows you to hold ether & tokens, and interact with decentralized applications.

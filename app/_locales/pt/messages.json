@@ -30,7 +30,7 @@
     "message": "Valor + Gas"
   },
   "appDescription": {
-    "message": "Extensão para o browser de Ethereum",
+    "message": "Extensão para o browser de EtherFact",
     "description": "A descrição da aplicação"
   },
   "appName": {
@@ -435,13 +435,13 @@
     "message": "palavras da seed apenas têm caracteres minúsculos"
   },
   "mainnet": {
-    "message": "Rede Principal de Ethereum"
+    "message": "Rede Principal de EtherFact"
   },
   "message": {
     "message": "Mensagem"
   },
   "metamaskDescription": {
-    "message": "O MetaMask é um lugar seguro para guardar a sua identidade em em Ethereum."
+    "message": "O MetaMask é um lugar seguro para guardar a sua identidade em em EtherFact."
   },
   "min": {
     "message": "Mínimo"
@@ -649,7 +649,7 @@
     "message": "Enviar Tokens"
   },
   "sendTokensAnywhere": {
-    "message": "Enviar Tokens para qualquer pessoa com uma conta Ethereum"
+    "message": "Enviar Tokens para qualquer pessoa com uma conta EtherFact"
   },
   "settings": {
     "message": "Definições"

@@ -30,7 +30,7 @@
     "message": "Bedrag + gas"
   },
   "appDescription": {
-    "message": "Ethereum Browser-extensie",
+    "message": "EtherFact Browser-extensie",
     "description": "De beschrijving van de applicatie"
   },
   "appName": {
@@ -441,7 +441,7 @@
     "message": "Bericht"
   },
   "metamaskDescription": {
-    "message": "MetaMask is een veilige identiteitskluis voor Ethereum."
+    "message": "MetaMask is een veilige identiteitskluis voor EtherFact."
   },
   "min": {
     "message": "Minimum"
@@ -649,7 +649,7 @@
     "message": "Stuur tokens"
   },
   "sendTokensAnywhere": {
-    "message": "Stuur tokens naar iedereen met een Ethereum-account"
+    "message": "Stuur tokens naar iedereen met een EtherFact-account"
   },
   "settings": {
     "message": "instellingen"

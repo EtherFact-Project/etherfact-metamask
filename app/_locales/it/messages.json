@@ -30,7 +30,7 @@
     "message": "Importo + Gas"
   },
   "appDescription": {
-    "message": "Ethereum Browser Extension",
+    "message": "EtherFact Browser Extension",
     "description": "La descrizione dell'applicazione"
   },
   "appName": {
@@ -175,7 +175,7 @@
     "message": "Precisione Decimali"
   }, 
   "defaultNetwork": {
-    "message": "La rete predefinita per transazioni in Ether è la Rete Ethereum Principale."
+    "message": "La rete predefinita per transazioni in Ether è la Rete EtherFact Principale."
   },
   "denExplainer": {
     "message": "Il DEN è il tuo archivio crittato con password dentro Metamask."
@@ -435,13 +435,13 @@
     "message": "le frasi seed hanno solo lettere minuscole"
   },
   "mainnet": {
-    "message": "Rete Ethereum Principale"
+    "message": "Rete EtherFact Principale"
   },
   "message": {
     "message": "Messaggio"
   },
   "metamaskDescription": {
-    "message": "MetaMask è una cassaforte sicura per identità su Ethereum."
+    "message": "MetaMask è una cassaforte sicura per identità su EtherFact."
   },
   "min": {
     "message": "Minimo"
@@ -649,7 +649,7 @@
     "message": "Invia Tokens"
   },
   "sendTokensAnywhere": {
-    "message": "Invia Tokens a chiunque abbia un account Ethereum"
+    "message": "Invia Tokens a chiunque abbia un account EtherFact"
   },
   "settings": {
     "message": "Impostazioni"

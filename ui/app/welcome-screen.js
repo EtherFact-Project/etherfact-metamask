@@ -47,7 +47,7 @@ class WelcomeScreen extends Component {
 
           h('div.welcome-screen__info__header', 'Welcome to MetaMask Beta'),
 
-          h('div.welcome-screen__info__copy', 'MetaMask is a secure identity vault for Ethereum.'),
+          h('div.welcome-screen__info__copy', 'MetaMask is a secure identity vault for EtherFact.'),
 
           h('div.welcome-screen__info__copy', `It allows you to hold ether & tokens,
             and serves as your bridge to decentralized applications.`),

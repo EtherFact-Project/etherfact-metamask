@@ -30,7 +30,7 @@
     "message": "Amount + Gas"
   },
   "appDescription": {
-    "message": "Ethereum Browser Extension",
+    "message": "EtherFact Browser Extension",
     "description": "The description of the application"
   },
   "appName": {
@@ -468,13 +468,13 @@
     "message": "seed words only have lowercase characters"
   },
   "mainnet": {
-    "message": "Main Ethereum Network"
+    "message": "Main EtherFact Network"
   },
   "message": {
     "message": "Message"
   },
   "metamaskDescription": {
-    "message": "MetaMask is a secure identity vault for Ethereum."
+    "message": "MetaMask is a secure identity vault for EtherFact."
   },
   "min": {
     "message": "Minimum"
@@ -650,7 +650,7 @@
     "message": "Current RPC"
   },
   "connectingToMainnet": {
-    "message": "Connecting to Main Ethereum Network"
+    "message": "Connecting to Main EtherFact Network"
   },
   "connectingToRopsten": {
     "message": "Connecting to Ropsten Test Network"
@@ -718,13 +718,13 @@
     "message": "Send Tokens"
   },
   "onlySendToEtherAddress": {
-    "message": "Only send ETH to an Ethereum address."
+    "message": "Only send ETH to an EtherFact address."
   },
   "searchTokens": {
     "message": "Search Tokens"
   },
   "sendTokensAnywhere": {
-    "message": "Send Tokens to anyone with an Ethereum account"
+    "message": "Send Tokens to anyone with an EtherFact account"
   },
   "settings": {
     "message": "Settings"

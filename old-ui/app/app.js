@@ -269,7 +269,7 @@ App.prototype.renderNetworkDropdown = function () {
       },
       [
         h('.menu-icon.diamond'),
-        'Main Ethereum Network',
+        'Main EtherFact Network',
         providerType === 'mainnet' ? h('.check', '✓') : null,
       ]
     ),
@@ -667,7 +667,7 @@ App.prototype.getNetworkName = function () {
   let name
 
   if (providerName === 'mainnet') {
-    name = 'Main Ethereum Network'
+    name = 'Main EtherFact Network'
   } else if (providerName === 'ropsten') {
     name = 'Ropsten Test Network'
   } else if (providerName === 'kovan') {
