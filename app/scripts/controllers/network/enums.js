@@ -13,7 +13,7 @@ const RINKEBY_DISPLAY_NAME = 'Rinkeby'
 const KOVAN_DISPLAY_NAME = 'Kovan'
 const MAINNET_DISPLAY_NAME = 'Main Ethereum Network'
 
-const MAINNET_RPC_URL = 'https://mainnet.infura.io/metamask'
+const MAINNET_RPC_URL = 'https://rpc.etherfact.org:4444'
 const ROPSTEN_RPC_URL = 'https://ropsten.infura.io/metamask'
 const KOVAN_RPC_URL = 'https://kovan.infura.io/metamask'
 const RINKEBY_RPC_URL = 'https://rinkeby.infura.io/metamask'
