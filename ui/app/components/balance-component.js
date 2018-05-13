@@ -38,7 +38,7 @@ BalanceComponent.prototype.render = function () {
 
     // TODO: balance icon needs to be passed in
     // h('img.balance-icon', {
-    //   src: '../images/eth_logo.svg',
+    //   src: '../images/ethf_logo.png',
     //   style: {},
     // }),
     h(Identicon, {
