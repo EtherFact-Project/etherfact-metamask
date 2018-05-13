@@ -255,7 +255,7 @@ class App extends Component {
               h('img.metafox-icon', {
                 height: 42,
                 width: 42,
-                src: '/images/metamask-fox.svg',
+                src: '/images/metamask-fox.png',
               }),
 
               // metamask name
